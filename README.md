@@ -1,1 +1,2 @@
-# stm32-homework1
+task1是使用HAL_Delay的闪烁，在主函数的循环中四行代码
+task2是使用中断回调函数的写法
